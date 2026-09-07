@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
