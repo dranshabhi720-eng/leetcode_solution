@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
