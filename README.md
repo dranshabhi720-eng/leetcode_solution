@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0035-search-insert-position) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
