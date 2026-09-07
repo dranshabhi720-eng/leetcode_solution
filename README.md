@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0275-h-index-ii) |
 | [0414-third-maximum-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0724-find-pivot-index) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0275-h-index-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Heap (Priority Queue)
 |  |
