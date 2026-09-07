@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -70,4 +73,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
