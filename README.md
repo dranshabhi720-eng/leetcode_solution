@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0414-third-maximum-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
