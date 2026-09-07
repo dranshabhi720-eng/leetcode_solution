@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Counting
