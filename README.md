@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
