@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
