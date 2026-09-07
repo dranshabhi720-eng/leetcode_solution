@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0027-remove-element) |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
