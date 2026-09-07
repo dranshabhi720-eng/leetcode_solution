@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
+| [0136-single-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0268-missing-number) |
