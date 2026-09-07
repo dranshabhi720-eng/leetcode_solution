@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0067-add-binary) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0169-majority-element) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/dranshabhi720-eng/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
